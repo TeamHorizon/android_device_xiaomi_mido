@@ -6,5 +6,15 @@
   {
     "repository": "KudProject/kernel_xiaomi_msm8953-3.18",
     "target_path": "kernel/xiaomi/msm8953-3.18"
+  },
+  {
+    "repository": "RaphielGang/aarch64-linux-gnu-8.x",
+    "target_path": "prebuilts/gcc/linux-x86/aarch64/aarch64-linux-gnu-8.x",
+    "revision": "master"
+  },
+  {
+    "repository": "RaphielGang/arm-linux-gnueabi-8.x",
+    "target_path": "prebuilts/gcc/linux-x86/arm/arm-linux-gnueabi-8.x",
+    "revision": "master"
   }
 ]
