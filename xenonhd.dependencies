@@ -16,5 +16,10 @@
     "repository": "RaphielGang/arm-linux-gnueabi-8.x",
     "target_path": "prebuilts/gcc/linux-x86/arm/arm-linux-gnueabi-8.x",
     "revision": "master"
+  },
+  {
+    "repository": "KudProject/vendor_xiaomi_MiuiCamera",
+    "target_path": "vendor/xiaomi/MiuiCamera",
+    "revision": "mkp"
   }
 ]
