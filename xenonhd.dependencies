@@ -5,7 +5,8 @@
   },
   {
     "repository": "KudProject/kernel_xiaomi_msm8953-3.18",
-    "target_path": "kernel/xiaomi/msm8953-3.18"
+    "target_path": "kernel/xiaomi/msm8953-3.18",
+    "revision": "lineage-16.0"
   },
   {
     "repository": "RaphielGang/aarch64-linux-gnu-8.x",
