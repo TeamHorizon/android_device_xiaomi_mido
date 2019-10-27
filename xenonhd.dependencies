@@ -22,5 +22,9 @@
     "repository": "KudProject/vendor_xiaomi_MiuiCamera",
     "target_path": "vendor/xiaomi/MiuiCamera",
     "revision": "mkp"
+  },
+  {
+    "repository": "KudProject/vendor_xiaomi_mido",
+    "target_path": "vendor/xiaomi/mido"
   }
 ]
