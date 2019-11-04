@@ -36,9 +36,6 @@ TARGET_KERNEL_CROSS_COMPILE_PREFIX := aarch64-linux-gnu-
 KERNEL_TOOLCHAIN_ARM32 := $(ANDROID_TOP)/prebuilts/gcc/linux-x86/arm/arm-linux-gnueabi-8.x/bin
 TARGET_KERNEL_CROSS_COMPILE_ARM32_PREFIX := arm-linux-gnueabi-
 
-# Lineage Hardware
-JAVA_SOURCE_OVERLAYS := org.lineageos.hardware|$(VENDOR_PATH)/lineagehw|**/*.java
-
 # Partitions
 BOARD_CACHEIMAGE_PARTITION_SIZE := 268435456
 BOARD_RECOVERYIMAGE_PARTITION_SIZE := 67108864
